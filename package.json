@@ -1,7 +1,7 @@
 {
-  "name": "react-native-ad-manager",
+  "name": "react-native-ad-manager-pm-x",
   "title": "React Native Ad Manager",
-  "version": "2.0.8",
+  "version": "2.0.11",
   "description": "A react-native component for Google Ad Manager banners, interstitials and native ads.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -37,15 +37,15 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/NZME/react-native-ad-manager",
+  "repository": "https://github.com/RWBbird/react-native-ad-manager",
   "author": "Matej Drobnic <matej.dr@gmail.com> (https://github.com/matejdr)",
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/NZME/react-native-ad-manager/issues"
+    "url": "https://github.com/RWBbird/react-native-ad-manager/issues"
   },
-  "homepage": "https://github.com/NZME/react-native-ad-manager#readme",
+  "homepage": "https://github.com/RWBbird/react-native-ad-manager#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
